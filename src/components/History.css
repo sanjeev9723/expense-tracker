@@ -1,0 +1,19 @@
+.main{
+    text-align: center;
+    width: 300px;
+    border: 1px solid black;
+    margin: 10px auto;
+    background-color: white;
+}
+.border-green{
+    padding: 5px;
+    margin: 10px;
+    border: 0.5px solid black;
+    border-right: 20px solid green;
+}
+.border-red{
+    padding: 5px;
+    margin: 10px;
+    border: 0.5px solid black;
+    border-right: 20px solid red;
+}

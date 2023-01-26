@@ -1,0 +1,13 @@
+/* .trans{
+    display: flex;
+} */
+.btn{
+    background-color: yellow;
+    border-radius: 5px;
+    border:  solid yellow;
+    text-align: center;
+   
+}
+.btn-container{
+    text-align: center;
+}
